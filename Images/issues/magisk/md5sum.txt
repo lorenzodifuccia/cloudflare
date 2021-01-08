@@ -1,0 +1,3 @@
+30dbdddcb89d409c1aac765667898ea0  BOOT.img
+79e9cc351beea94b5f7c6442c9bf9f35  RAMDISK.img
+55b6aebcca1b817faba295c243c7ff2a  RECOVERY_RAMDIS.img
